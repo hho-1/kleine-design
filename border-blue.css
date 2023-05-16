@@ -1,0 +1,49 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin: auto;  
+}
+.container{
+    width: 70%;
+    min-height: 23vh;
+    height: 30%;
+    border: 2px solid blue;
+    margin: auto;
+    
+}
+.box{
+    width: 90%;
+    height: 70%;
+    margin: auto;
+    margin-top: 2.8rem;
+    margin-bottom: 3rem;
+    outline-offset: 10px;
+    padding: 5px 5px;
+}
+.pic{
+    height: 140px;
+    width: 112px;
+    background-color: rgb(246, 53, 53);
+    float: left;
+    margin-right: 40px;
+}
+
+#title{
+    font-size: 2rem;
+    
+}
+
+.paragraph{
+    font-size: small;
+    padding-left: 20px;
+    margin-top: 10px;
+}
+#blue-text{
+    float: right;
+    color: blue;
+    margin: 15px 15px;
+}
